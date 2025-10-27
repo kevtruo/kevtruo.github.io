@@ -1,13 +1,13 @@
 # Site settings
 title:          Kevin Truong
 description:    "IT Security Guy"
-url:            https://github.com/inelaah/rain
+url:            https://kevtruo.github.io
 
 # Author
 author:
   name:         Kevin Truong
-  email:        inelaah@gmail.com
-  url:          https://inelaah.com
+  email:        165167213+kevtruo@users.noreply.github.com
+  url:          https://kevtruo.github.io
 
 # Build settings
 markdown:       kramdown
@@ -34,7 +34,7 @@ related_posts_section:
 
 # Links to social media
 social:
-  email: inelaah@gmail.com
+  email: 165167213+kevtruo@users.noreply.github.com
   github: https://github.com/kevtruo
   twitter: https://twitter.com
   linkedin: https://linked.com/kevtruo
