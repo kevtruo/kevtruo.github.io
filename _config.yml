@@ -1,11 +1,11 @@
 # Site settings
-title:          Rain
-description:    "Rain is a simple and clean Jekyll theme with focus on content."
+title:          Kevin Truong
+description:    "IT Security Guy"
 url:            https://github.com/inelaah/rain
 
 # Author
 author:
-  name:         Inela Avdic Hukic
+  name:         Kevin Truong
   email:        inelaah@gmail.com
   url:          https://inelaah.com
 
@@ -35,6 +35,6 @@ related_posts_section:
 # Links to social media
 social:
   email: inelaah@gmail.com
-  github: https://github.com/inelaah
+  github: https://github.com/kevtruo
   twitter: https://twitter.com
-  linkedin: https://ba.linkedin.com/in/inela-avdic-hukic-322354131
+  linkedin: https://linked.com/kevtruo
