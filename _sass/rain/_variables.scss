@@ -10,6 +10,39 @@ $blue: #4a9ae1;
 $shadow-color: rgba(0, 0, 0, .2);
 $code-color: #bf616a;
 
+// CSS Custom Properties for theming
+:root {
+  --bg-color: #fff;
+  --text-color: #555;
+  --text-shade: #353535;
+  --text-tint: #aaa;
+  --grey-1: #979797;
+  --grey-2: #e5e5e5;
+  --grey-3: #f9f9f9;
+  --link-color: #4a9ae1;
+  --code-color: #bf616a;
+  --code-bg: #f9f9f9;
+  --border-color: #e5e5e5;
+  --shadow-color: rgba(0, 0, 0, .2);
+  --nav-bg: #fff;
+}
+
+[data-theme="dark"] {
+  --bg-color: #1a1a1a;
+  --text-color: #e0e0e0;
+  --text-shade: #f5f5f5;
+  --text-tint: #888;
+  --grey-1: #999;
+  --grey-2: #333;
+  --grey-3: #2a2a2a;
+  --link-color: #6ab0f3;
+  --code-color: #ff9999;
+  --code-bg: #2a2a2a;
+  --border-color: #444;
+  --shadow-color: rgba(255, 255, 255, .1);
+  --nav-bg: #0d0d0d;
+}
+
 // Fonts
 $sans-serif: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif;
 $monospaced: Menlo, Monaco, monospace;
