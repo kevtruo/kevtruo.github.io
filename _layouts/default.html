@@ -9,10 +9,6 @@
         <a href="{{ site.baseurl }}/">
           <h2 class="nav-title">{{ site.title }}</h2>
         </a>
-        <ul class="nav-menu">
-          <li><a href="{{ site.baseurl }}/">Home</a></li>
-          <li><a href="{{ site.baseurl }}/about/">About</a></li>
-        </ul>
         <ul class="nav-social-icons">
           {% if site.social.email %}
             <li><a target="_blank" href="mailto:{{ site.social.email }}"><i class="fas fa-envelope"></i></a></li>
@@ -31,6 +27,15 @@
               <i class="fas fa-moon"></i>
             </button>
           </li>
+        </ul>
+      </div>
+    </nav>
+    
+    <nav class="nav-secondary">
+      <div class="nav-container">
+        <ul class="nav-menu">
+          <li><a href="{{ site.baseurl }}/">Home</a></li>
+          <li><a href="{{ site.baseurl }}/about/">About</a></li>
         </ul>
       </div>
     </nav>
