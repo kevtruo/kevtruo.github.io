@@ -2,16 +2,16 @@
 
 Personal website and blog built with Jekyll using the Rain theme.
 
-🌐 **Live Site:** [https://kevtruo.github.io](https://kevtruo.github.io)
+**Live Site:** [https://kevtruo.github.io](https://kevtruo.github.io)
 
 ## Features
 
-- 🌓 **Dark Mode Toggle** - Full light/dark theme switching with localStorage persistence
-- 📱 **Responsive Design** - Mobile-friendly layout
-- 📝 **Blog Posts** - Jekyll-powered blog with pagination
-- 🔗 **Social Links** - GitHub, Mastodon, LinkedIn integration
-- 🎨 **Clean UI** - Minimalist design focused on content
-- ⚡ **Fast Loading** - Optimized static site generation
+- **Dark Mode Toggle** - Full light/dark theme switching with localStorage persistence
+- **Responsive Design** - Mobile-friendly layout
+- **Blog Posts** - Jekyll-powered blog with pagination
+- **Social Links** - GitHub, Mastodon, LinkedIn integration
+- **Clean UI** - Minimalist design focused on content
+- **Fast Loading** - Optimized static site generation
 
 ## Tech Stack
 
@@ -116,13 +116,11 @@ kevtruo.github.io/
 
 ## Customizations from Original Theme
 
-- ✅ Replaced Twitter with Mastodon integration
-- ✅ Added full dark mode support with toggle
-- ✅ Updated author information and branding
-- ✅ Removed example posts
-- ✅ Custom color scheme for both light and dark modes
-- ✅ Theme persistence using localStorage
-- ✅ System preference detection for default theme
+- Replaced Twitter with Mastodon integration
+- Added full dark mode support with toggle
+- Custom color scheme for both light and dark modes
+- Theme persistence using localStorage
+- System preference detection for default theme
 
 ## License
 
@@ -133,13 +131,3 @@ This project uses the Rain theme, which is licensed under the MIT License. See [
 - Original Rain theme by [Inela Avdic Hukic](https://github.com/inelaah/rain)
 - Built with [Jekyll](https://jekyllrb.com/)
 - Hosted on [GitHub Pages](https://pages.github.com/)
-
-## Contact
-
-- **GitHub:** [@kevtruo](https://github.com/kevtruo)
-- **Mastodon:** [@kevtruo_@infosec.exchange](https://infosec.exchange/@kevtruo_)
-- **Email:** [165167213+kevtruo@users.noreply.github.com](mailto:165167213+kevtruo@users.noreply.github.com)
-
----
-
-Built with ❤️ using Jekyll and the Rain theme.
