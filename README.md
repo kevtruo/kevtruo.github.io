@@ -2,7 +2,7 @@
 
 Welcome! This is the source code for my personal blog where I write about IT, Security, and Identity topics.
 
-**🌐 Live Site:** [https://kevtruo.github.io](https://kevtruo.github.io)
+**Live Site:** [https://kevtruo.github.io](https://kevtruo.github.io)
 
 ## About
 
@@ -10,7 +10,7 @@ I write about practical security and identity management topics, focusing on:
 
 - **Identity & Access Management (IAM)** - Identity federations, SSO, authentication protocols
 - **Security Operations** - Incident response, threat detection, security tooling
-- **Cloud Security** - AWS/Azure security, infrastructure protection
+- **IT Operations** - systems administration, infrastructure protection
 - **Certifications & Learning** - Study guides and exam prep experiences
 
 ## Recent Posts
@@ -32,9 +32,7 @@ This site is built with:
 - **GitHub Pages** hosting
 - Custom dark mode implementation with localStorage persistence
 
-## For Developers
-
-Want to run this site locally or use the theme? Check out the [installation guide](INSTALLATION.md) for setup instructions.
+If you'd like to run this site locally or use the theme, check out the [installation guide](INSTALLATION.md) for setup instructions.
 
 ## License
 
