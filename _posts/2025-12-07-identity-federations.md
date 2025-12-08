@@ -15,8 +15,6 @@ Identity federation enables users from one organization to access resources in a
 
 **Identity federation** is the practice of establishing trust relationships between identity providers (IdPs) and service providers (SPs) to enable cross-organization authentication and authorization. Instead of creating separate accounts in every system, users authenticate once with their home IdP and gain access to federated services through token or assertion exchange. In other words, federations are what allows users to sign into various applications/services using credentials from a different service. Notably, identity federations are what enable Single Sign-on (SSO). A very common example of federation and SSO that you probably have seen is the "Sign in with Google" feature, which uses OpenID Connect (OIDC) built on top of OAuth 2.0 to authenticate you with your Google credentials.
 
-### Why do it?
-
 There are a large number of benefits that make identity federation a best-practice for enterprises. When an organization is governing over hundreds, possibly thousands, of users, it's critical that IT and Security teams have the technology in place to implement even more complex actions such as controls, automation, and operations at scale. Key benefits are:
 - **Single Sign-On (SSO)**: Users authenticate once and access multiple applications
 - **Reduced credential sprawl**: Fewer passwords to manage and secure

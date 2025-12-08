@@ -12,9 +12,7 @@ that said, the elephant in the room with practically any SANS course is the daun
 certification. Naturally, with such a high initial cost, close evaluation of the course syllabus and general cost-benefit analysis is critical for anyone looking into 
 taking the course. Everyone's perceived valuation of being GCIH certified is wildly different, and hopefully this review gives you further insight to the course and contributes to your decision.
 
-**Course Style:** OnDemand / BACS Program
-
-**Funding:** GI Bill
+**Course Style:** OnDemand / BACS
 
 ### Resources used
 
