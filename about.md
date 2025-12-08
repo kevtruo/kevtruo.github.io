@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Hello! 👋
 
-I'm Kevin Truong, an IT Security professional passionate about cybersecurity, policy, and everything in between.
+I'm KQ Truong, an IT Security professional passionate about cybersecurity, policy, and everything in between.
 
 ### Background
 
@@ -26,7 +26,7 @@ This blog serves as a space to share my experiences, course reviews, and insight
 Feel free to reach out or connect with me:
 
 - **GitHub:** [@kevtruo](https://github.com/kevtruo)
-- **Mastodon:** [@kevtruo_@infosec.exchange](https://infosec.exchange/@kevtruo_)
+- **Mastodon:** [@kevtruo@infosec.exchange](https://infosec.exchange/@kevtruo)
 - **LinkedIn:** [kevtruo](https://linkedin.com/in/kevtruo)
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: Identity Federations
 date: 2025-12-07 17:30:00 -0400
-categories: [Identity]
+category: Identity
 tags: [iam, saml, oauth, oidc, sso]
 ---
 

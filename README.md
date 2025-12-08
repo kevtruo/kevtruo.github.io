@@ -1,5 +1,3 @@
-# Kevin Truong
-
 Welcome! This is the source code for my personal blog where I write about IT, Security, and Identity topics.
 
 **Live Site:** [https://kevtruo.github.io](https://kevtruo.github.io)
@@ -17,6 +15,15 @@ I write about practical security and identity management topics, focusing on:
 
 - [Identity Federations](https://kevtruo.github.io/2025/10/28/identity-federations.html) - Deep dive into SAML, OAuth 2.0, OIDC, and federation patterns
 - [SANS SEC504 / GCIH Review](https://kevtruo.github.io/2025/06/12/sans-sec504-gcih-review.html) - Incident handling certification experience
+
+## Upcoming Posts
+
+- Federation Security Considerations
+- Federation Implementation
+- SAML Deconstructed
+- OAuth Deconstructed
+- OIDC Deconstructed
+- Components of IAM
 
 ## Connect
 
