@@ -114,7 +114,8 @@ footer,
   }
 }
 
-.theme-toggle {
+.theme-toggle,
+.search-toggle {
   @include transition(all .2s ease-out);
   background: none;
   border: none;
@@ -131,6 +132,38 @@ footer,
   &:focus {
     opacity: 1;
     outline: none;
+  }
+}
+
+// Social links on About page
+.social-links {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin: 2rem 0;
+
+  .social-link {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.75rem 1.25rem;
+    background: var(--code-bg-color);
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    text-decoration: none;
+    color: var(--text-color);
+    transition: all 0.2s ease;
+    font-weight: 500;
+
+    i {
+      font-size: 1.25rem;
+    }
+
+    &:hover {
+      border-color: var(--link-color);
+      transform: translateY(-2px);
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    }
   }
 }
 

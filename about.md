@@ -15,9 +15,24 @@ I'm KQ Truong, an IT Security professional passionate about cybersecurity, polic
 
 Feel free to reach out or connect with me:
 
-- **GitHub:** [@kevtruo](https://github.com/kevtruo)
-- **Mastodon:** [@kevtruo@infosec.exchange](https://infosec.exchange/@kevtruo)
-- **LinkedIn:** [kevtruo](https://linkedin.com/in/kevtruo)
+<div class="social-links">
+  <a href="mailto:{{ site.social.email }}" target="_blank" class="social-link">
+    <i class="fas fa-envelope"></i>
+    <span>Email</span>
+  </a>
+  <a href="{{ site.social.github }}" target="_blank" class="social-link">
+    <i class="fab fa-github"></i>
+    <span>GitHub</span>
+  </a>
+  <a href="{{ site.social.mastodon }}" target="_blank" rel="me" class="social-link">
+    <i class="fab fa-mastodon"></i>
+    <span>Mastodon</span>
+  </a>
+  <a href="{{ site.social.linkedin }}" target="_blank" class="social-link">
+    <i class="fab fa-linkedin-in"></i>
+    <span>LinkedIn</span>
+  </a>
+</div>
 
 ---
 

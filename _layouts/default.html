@@ -10,18 +10,11 @@
           <h2 class="nav-title">{{ site.title }}</h2>
         </a>
         <ul class="nav-social-icons">
-          {% if site.social.email %}
-            <li><a target="_blank" href="mailto:{{ site.social.email }}"><i class="fas fa-envelope"></i></a></li>
-          {% endif %}
-          {% if site.social.github %}
-            <li><a target="_blank" href="{{ site.social.github }}"><i class="fab fa-github"></i></a></li>
-          {% endif %}
-          {% if site.social.mastodon %}
-            <li><a target="_blank" href="{{ site.social.mastodon }}" rel="me"><i class="fab fa-mastodon"></i></a></li>
-          {% endif %}
-          {% if site.social.linkedin %}
-            <li><a target="_blank" href="{{ site.social.linkedin }}"><i class="fab fa-linkedin-in"></i></a></li>
-          {% endif %}
+          <li>
+            <button id="search-toggle" class="search-toggle" aria-label="Search">
+              <i class="fas fa-search"></i>
+            </button>
+          </li>
           <li>
             <button id="theme-toggle" class="theme-toggle" aria-label="Toggle dark mode">
               <i class="fas fa-moon"></i>
@@ -50,5 +43,6 @@
     </footer>
     
     <script src="{{ "/assets/js/theme-toggle.js" | relative_url }}"></script>
+    <script src="{{ "/assets/js/search.js" | relative_url }}"></script>
   </body>
 </html>
