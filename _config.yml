@@ -1,11 +1,11 @@
 # Site settings
-title:          Kevin Truong
-description:    "IT Security Guy"
+title:          kq_truong
+description:    "Talking IT, Security, and Identity."
 url:            https://kevtruo.github.io
 
 # Author
 author:
-  name:         Kevin Truong
+  name:         KQ Truong
   email:        kevtruo.github.irritate483@passmail.com
   url:          https://kevtruo.github.io
 
@@ -36,5 +36,5 @@ related_posts_section:
 social:
   email: kevtruo.github.irritate483@passmail.com
   github: https://github.com/kevtruo
-  mastodon: https://infosec.exchange/@kevtruo_
+  mastodon: https://infosec.exchange/@kevtruo
   linkedin: https://linkedin.com/kevtruo

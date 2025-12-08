@@ -28,7 +28,7 @@ I write about practical security and identity management topics, focusing on:
 ## Connect
 
 - **GitHub:** [@kevtruo](https://github.com/kevtruo)
-- **LinkedIn:** [Kevin Truong](https://linkedin.com/in/kevin-truong)
+- **LinkedIn:** [Kevin Truong](https://linkedin.com/in/kevtruo)
 - **Mastodon:** [@kevtruo](https://infosec.exchange/@kevtruo)
 
 ## Tech Stack
