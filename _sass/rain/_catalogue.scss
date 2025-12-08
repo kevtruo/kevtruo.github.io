@@ -36,4 +36,41 @@
     display: block;
     width: 3rem;
   }
+
+  &-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 0.75rem 0;
+    align-items: center;
+  }
+
+  &-category {
+    display: inline-block;
+    padding: 0.25rem 0.75rem;
+    background-color: var(--code-background);
+    color: var(--link-color);
+    border-radius: 4px;
+    font-size: 0.85rem;
+    font-family: $sans-serif;
+    font-weight: 500;
+    border: 1px solid var(--border-color);
+  }
+
+  &-tags {
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+  }
+
+  &-tag {
+    display: inline-block;
+    padding: 0.2rem 0.6rem;
+    background-color: transparent;
+    color: var(--text-tint);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    font-size: 0.8rem;
+    font-family: $sans-serif;
+  }
 }

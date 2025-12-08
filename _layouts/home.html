@@ -8,6 +8,20 @@ layout: default
       <div>
         <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
         <h1 class="catalogue-title">{{ post.title }}</h1>
+        
+        <div class="catalogue-meta">
+          {% if post.category %}
+            <span class="catalogue-category">{{ post.category }}</span>
+          {% endif %}
+          {% if post.tags and post.tags.size > 0 %}
+            <span class="catalogue-tags">
+              {% for tag in post.tags %}
+                <span class="catalogue-tag">{{ tag }}</span>
+              {% endfor %}
+            </span>
+          {% endif %}
+        </div>
+        
         <div class="catalogue-line"></div>
 
         <p>
