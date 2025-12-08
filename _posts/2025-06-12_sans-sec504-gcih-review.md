@@ -1,5 +1,5 @@
 ---
-title: SANS SEC504 GCIH Course Review
+title: SANS SEC504 (GCIH) Course Review
 date: 2025-06-12 17:30:00 -0400
 categories: [Certifications]
 tags: [sans, review]

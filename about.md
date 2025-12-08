@@ -6,17 +6,11 @@ permalink: /about/
 
 ## Hello! 👋
 
-I'm Kevin Truong, an IT Security professional passionate about cybersecurity, incident response, and continuous learning.
+I'm Kevin Truong, an IT Security professional passionate about cybersecurity, policy, and everything in between.
 
 ### Background
 
-I work in information security, focusing on protecting systems and responding to security incidents. My interests span across various domains of cybersecurity, from network security to threat analysis.
-
-### Certifications
-
-- **GIAC Certified Incident Handler (GCIH)** - SANS SEC504
-
-I believe in continuous professional development and regularly pursue certifications and training to stay current with evolving security threats and best practices.
+I work in IT Security, focusing on Systems Administration, Identity & Access Management, and IT Automation with tools like Okta, Torq, and Jira. I'm interested in identity security; securing human and non-human identities at scale through automation and proactive threat intelligence.
 
 ### This Site
 
@@ -37,4 +31,4 @@ Feel free to reach out or connect with me:
 
 ---
 
-*Thanks for visiting! Feel free to explore my blog posts and reach out if you'd like to discuss cybersecurity topics.*
+*Thanks for visiting! Feel free to explore my blog posts and reach out if you'd like to discuss anything.*
