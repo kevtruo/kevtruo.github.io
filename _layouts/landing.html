@@ -1,0 +1,76 @@
+---
+layout: default
+---
+
+<div class="landing-page">
+  <!-- Hero Section -->
+  <section class="hero">
+    <h1 class="hero-title">{{ site.title }}</h1>
+    <p class="hero-description">{{ site.description }}</p>
+  </section>
+
+  <!-- Navigation Cards -->
+  <section class="nav-cards">
+    <a href="/blog" class="nav-card">
+      <div class="nav-card-icon">📝</div>
+      <h3>Blog</h3>
+      <p>Read my latest posts on IT, Security, and Identity</p>
+    </a>
+    
+    <a href="/about" class="nav-card">
+      <div class="nav-card-icon">👤</div>
+      <h3>About</h3>
+      <p>Learn more about me and my work</p>
+    </a>
+    
+    <a href="/categories" class="nav-card">
+      <div class="nav-card-icon">🗂️</div>
+      <h3>Categories</h3>
+      <p>Browse posts by topic</p>
+    </a>
+  </section>
+
+  <!-- Featured Topics Section -->
+  <section class="featured-topics">
+    <h2>Focus Areas</h2>
+    <div class="topics-grid">
+      <div class="topic-card">
+        <h4>Identity & Access Management</h4>
+        <p>Identity federations, SSO, authentication protocols</p>
+      </div>
+      <div class="topic-card">
+        <h4>Security Operations</h4>
+        <p>Incident response, threat detection, security tooling</p>
+      </div>
+      <div class="topic-card">
+        <h4>IT Operations</h4>
+        <p>Systems administration, infrastructure protection</p>
+      </div>
+      <div class="topic-card">
+        <h4>Certifications & Learning</h4>
+        <p>Study guides and exam prep experiences</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Recent Posts Section -->
+  <section class="recent-posts">
+    <h2>Recent Posts</h2>
+    <div class="posts-list">
+      {% assign recent_posts = site.posts | limit: 3 %}
+      {% for post in recent_posts %}
+        <a href="{{ post.url | prepend: site.baseurl }}" class="post-preview">
+          <div class="post-meta">
+            <time datetime="{{ post.date }}">{{ post.date | date: "%B %d, %Y" }}</time>
+            {% if post.category %}
+              <span class="post-category">{{ post.category }}</span>
+            {% endif %}
+          </div>
+          <h3 class="post-title">{{ post.title }}</h3>
+          <p class="post-excerpt">{{ post.content | strip_html | truncatewords: 30 }}</p>
+        </a>
+      {% endfor %}
+    </div>
+    <a href="/blog" class="view-all-link">View all posts →</a>
+  </section>
+</div>
