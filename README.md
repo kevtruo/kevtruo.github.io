@@ -18,18 +18,12 @@ I write about practical security and identity management topics, focusing on:
 
 ## Upcoming Posts
 
-- Federation Security Considerations
-- Federation Implementation
 - SAML Deconstructed
 - OAuth Deconstructed
 - OIDC Deconstructed
 - Components of IAM
-
-## Connect
-
-- **GitHub:** [@kevtruo](https://github.com/kevtruo)
-- **LinkedIn:** [Kevin Truong](https://linkedin.com/in/kevtruo)
-- **Mastodon:** [@kevtruo](https://infosec.exchange/@kevtruo)
+- Identity DAIR Model
+- Case Study - Salesloft Breach
 
 ## Tech Stack
 

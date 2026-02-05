@@ -41,7 +41,7 @@ I did not ace the exam in the slightest. Although a pass is a pass, here are som
 - Usage of module quizzes more. Mentioned previously, the usage of module quizzes to hone down the index even more doesn't hurt, and any additional time spent here is a net benefit.
 - Index item names. Deciding on what to name subjects in each index line-item is possibly the most critical action done in the preparation process. The first word of each line-item is critical, and my mistake here was beginning some line-items with a verb. My suggestion here is to always start with a noun.
 
-### Key Takeaways
+### Evaluation
 
 Although I do not presently work in a traditional incident response role, the lessons learned from the SEC504 course gives me great context in what my organization's IR teams do, 
 as well as a level of knowledge that allows me to ask the right questions to the right folks.
