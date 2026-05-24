@@ -7,6 +7,8 @@ tags: [ctf, review]
 
 This year I competed in the National Cyber League (NCL) Cyber Command CTF. NCL is a cybersecurity skills competition structured around realistic, scenario-driven challenges across a broad range of domains — log analysis, network forensics, web exploitation, cryptography, binary reversing, and OSINT. This post recaps my experience and walks through one challenge in depth: an AWS CloudTrail IAM enumeration problem that was the most directly applicable to real-world security work I encountered across the entire competition.
 
+See my NCL scout report here: cyberskyline.com/report/FT0UBDTDKY01
+
 ## Challenge Overview
 
 **Challenge**: Analyze a set of AWS CloudTrail logs to reconstruct attacker activity across multiple IAM-related API calls. Specific questions covered identifying the AWS account ID present in the logs, the total number of unique IAM users created during the incident window, the EC2 instance ID launched by the threat actor, and the ARNs of IAM roles assumed during the session.
