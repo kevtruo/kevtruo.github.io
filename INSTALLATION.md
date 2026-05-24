@@ -73,11 +73,8 @@ url: "https://yourusername.github.io"
 baseurl: ""
 
 # Social links
-github_username: yourusername
-linkedin_username: yourprofile
-mastodon:
-  username: yourusername
-  instance: mastodon.social
+  github_username: yourusername
+  linkedin_username: yourprofile
 
 # Pagination
 paginate: 10
@@ -260,9 +257,7 @@ Update your social media links in `_config.yml`:
 github_username: kevtruo
 linkedin_username: kevin-truong
 
-mastodon:
-  username: kevtruo
-  instance: infosec.exchange
+<!-- Mastodon examples removed -->
 ```
 
 ## Deployment

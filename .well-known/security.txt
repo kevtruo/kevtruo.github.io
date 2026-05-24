@@ -1,0 +1,9 @@
+# Security Policy
+Contact: mailto:kevtruo.github.irritate483@passmail.com
+Expires: 2027-12-31T23:59:59.000Z
+Preferred-Languages: en
+Canonical: https://kevtruo.github.io/.well-known/security.txt
+
+# Security.txt file for responsible disclosure
+# If you find a security vulnerability, please email the contact above
+# Please allow reasonable time for response before public disclosure

@@ -1,29 +1,14 @@
-Welcome! This is the source code for my personal blog where I write about IT, Security, and Identity topics.
-
 **Live Site:** [https://kevtruo.github.io](https://kevtruo.github.io)
 
 ## About
 
-I write about practical security and identity management topics, focusing on:
+"There are many like it, but this one is mine!"
 
-- **Identity & Access Management (IAM)** - Identity federations, SSO, authentication protocols
-- **Security Operations** - Incident response, threat detection, security tooling
-- **IT Operations** - systems administration, infrastructure protection
-- **Certifications & Learning** - Study guides and exam prep experiences
+Welcome! This is the source code for my personal blog where I write about IT and security, with a particular focus on digital identity.
 
-## Recent Posts
+I found my way into cybersecurity while working with underwater sensor systems on warships. Sounds unrelated, but that work exposed me to how hardware, firmware, and networked services all rely on software, protocols, and identity controls — and how failures or misconfigurations can create real risk. That experience sparked my interest in security, and over time I’ve focused on identity and access management because it sits dead-center of technology, policy, and people. As integrations accelerate, the identities they expose grow in both value and risk, and because our digital identities rely on layered third‑party identity systems, we must be mindful of the potential harms those systems can introduce.
 
-- [Identity Federations](https://kevtruo.github.io/2025/10/28/identity-federations.html) - Deep dive into SAML, OAuth 2.0, OIDC, and federation patterns
-- [SANS SEC504 / GCIH Review](https://kevtruo.github.io/2025/06/12/sans-sec504-gcih-review.html) - Incident handling certification experience
-
-## Upcoming Posts
-
-- SAML Deconstructed
-- OAuth Deconstructed
-- OIDC Deconstructed
-- Components of IAM
-- Identity DAIR Model
-- Case Study - Salesloft Breach
+I aim to publish relatable, insightful posts that help (or entertain) the everyday IT professional. If something I wrote was useful, I'd love to hear from you!
 
 ## Tech Stack
 
