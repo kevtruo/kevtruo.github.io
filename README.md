@@ -6,9 +6,9 @@
 
 Welcome! This is the source code for my personal blog where I write about IT and security, with a particular focus on digital identity.
 
-I found my way into cybersecurity while working with underwater sensor systems on warships. Sounds unrelated, but that work exposed me to how hardware, firmware, and networked services all rely on software, protocols, and identity controls — and how failures or misconfigurations can create real risk. That experience sparked my interest in security, and over time I’ve focused on identity and access management because it sits dead-center of technology, policy, and people. As integrations accelerate, the identities they expose grow in both value and risk, and because our digital identities rely on layered third‑party identity systems, we must be mindful of the potential harms those systems can introduce.
+I found my way into cybersecurity while working with underwater sensor systems on warships. Sounds unrelated, but that work exposed me to how hardware, firmware, and networked services all rely on software, protocols, and identity controls — and how failures or misconfigurations creates risk. That experience sparked my interest in security, and over time I’ve focused on identity and access management because it's dead-center of technology, policy, and people. As we continuously integrate our lives in light of AI, the identities they expose grow in both value and risk, and because our digital identities rely on layered third‑party identity systems, we must be mindful of the potential harms those systems can introduce.
 
-I aim to publish relatable, insightful posts that help (or entertain) the everyday IT professional. If something I wrote was useful, I'd love to hear from you!
+All that said, I aim to publish relatable, insightful posts that provide some guidance (or entertain). If you liked something I posted, I'd love to hear from you!
 
 ## Tech Stack
 
